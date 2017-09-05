@@ -10,5 +10,4 @@
 
 ex:SomeClass a owl:Class . 
 
-
-
+ex:AnotherClass a owl:Class .
