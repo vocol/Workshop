@@ -6,8 +6,8 @@
 @prefix geo:     <http://www.geonames.org/ontology#> .
 @prefix dbo:     <http://dbpedia.org/ontology#> .
 @prefix dbr:     <http://dbpedia.org/resource#> .
-@prefix ex:     <http://example.org/#> .
+@prefix sb:     <http://http://vocol.iais.fraunhofer.de/sandbox/> .
 
-ex:SomeClass a owl:Class . 
+sb:SomeClass a owl:Class . 
 
-ex:AnotherClass a owl:Class .
+sb:AnotherClass a owl:Class .
